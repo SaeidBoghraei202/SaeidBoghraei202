@@ -21,19 +21,17 @@
 
 - 📫 How to reach me **saeidboghraei202@gmail.com**
 
+ Languages and Tools  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="25" height="25" /> :
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    </a>
-</p>
+<div >
+	<img src="https://skillicons.dev/icons?i=python"/>
+	<img src="https://skillicons.dev/icons?i=django"/>
+    <img src="https://skillicons.dev/icons?i=kotlin"/>
+	<img src="https://skillicons.dev/icons?i=mysql"/>
+	<img src="https://skillicons.dev/icons?i=git"/>
+	
+</div>
+
+<span>  </span>
+
+
