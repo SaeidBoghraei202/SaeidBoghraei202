@@ -25,7 +25,6 @@
 
 <div >
 	<img src="https://skillicons.dev/icons?i=python"/>
-	<img src="https://skillicons.dev/icons?i=django"/>
     <img src="https://skillicons.dev/icons?i=kotlin"/>
 	<img src="https://skillicons.dev/icons?i=mysql"/>
 	<img src="https://skillicons.dev/icons?i=git"/>
