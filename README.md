@@ -8,15 +8,23 @@
 <br>
 <br>
 
+🔭 Passionate about learning and challenges
+<br>
+🎯 Strong team communication and problem-solving skills
+<br>
+👨‍💻 All of my projects are available
+<br>
+📧 Contact me: saeidboghraei202@gmail.com
+<br>
+🧠 Creative and critical thinking abilities
+<br>
+👥 Experience in effective teamwork
+<br>
+📈 Continuous improvement in technical skills
+<br>
+🚀 Highly motivated to achieve new goals
 
 
-- 🔭 Love learning and challenges
-
-- 🎯 My team communication and problem solving skills
-
-- 👨‍💻 All of my projects are available 
-
-- 📫 How to reach me **saeidboghraei202@gmail.com**
 
  Languages and Tools  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="25" height="25" /> :
 
