@@ -1,20 +1,18 @@
 
 
 
-<h1 align="center">Hi 👋, I am Saeid, an Android programmer</h1>
-<h3 align="center">A motivated young programmer looking for challenges</h3>
+<h1 align="center">Hi, I am Saeid, an Mobile Developer Flutter 📱💻</h1>
+<h3 align="center">🧑‍💻 Beloved of the world of zero and one computer</h3>
 
-<img align="right" alt="saeid" width = "400" src ="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
-
-
+<img padding-left="20px" align="right" alt="Coding" width="400" src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif">
+<br>
+<br>
 
 
 
 - 🔭 Love learning and challenges
 
 - 🎯 My team communication and problem solving skills
-
-- 🤝 You can follow me on LinkedIn
 
 - 👨‍💻 All of my projects are available 
 
@@ -23,10 +21,10 @@
  Languages and Tools  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="25" height="25" /> :
 
 <div >
- <img src="https://skillicons.dev/icons?i=kotlin"/>
-<img src="https://skillicons.dev/icons?i=python"/>
-	<img src="https://skillicons.dev/icons?i=ktor"/>
-	<img src="https://skillicons.dev/icons?i=spring"/>
+ <img src="https://skillicons.dev/icons?i=dart"/>
+<img src="https://skillicons.dev/icons?i=flutter"/>
+	<img src="https://skillicons.dev/icons?i=kotlin"/>
+	<img src="https://skillicons.dev/icons?i=python"/>
 	<img src="https://skillicons.dev/icons?i=git"/>
 	
 </div>
