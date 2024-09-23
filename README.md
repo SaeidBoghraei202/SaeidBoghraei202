@@ -31,10 +31,13 @@
 <div >
  <img src="https://skillicons.dev/icons?i=kotlin"/>
  <img src="https://skillicons.dev/icons?i=dart"/>
+ <img src="https://skillicons.dev/icons?i=python"/>
  <img src="https://skillicons.dev/icons?i=flutter"/>
  <img src="https://skillicons.dev/icons?i=spring boot"/>
 <img src="https://skillicons.dev/icons?i=postgresql"/>
 	<img src="https://skillicons.dev/icons?i=ktor"/>
+	<img src="https://skillicons.dev/icons?i=git"/>
+ 
 	
  
  
